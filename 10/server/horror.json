@@ -1,0 +1,24 @@
+{
+    "id": "horror",
+    "name": "Horror",
+    "movies": [
+      {
+        "id": "13",
+        "title": "The Shining",
+        "release_year": 1980,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fgh3Ns1iRzlQNYuJyK0ARQZU7w.jpg"
+      },
+      {
+        "id": "14",
+        "title": "Get Out",
+        "release_year": 2017,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SwAVYpuLj8KsHxllTF8Dt9dSSX.jpg"
+      },
+      {
+        "id": "15",
+        "title": "Psycho",
+        "release_year": 1960,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/81d8oyEFgj7FlxJqSDXWr8JH8kV.jpg"
+      }
+    ]
+  }

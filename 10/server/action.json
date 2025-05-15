@@ -1,0 +1,24 @@
+{
+    "id": "action",
+    "name": "Action",
+    "movies": [
+      {
+        "id": "1",
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Inception",
+        "release_year": 2010,
+        "poster_image": "https://www.themoviedb.org/t/p/w1280/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+      },
+      {
+        "id": "3",
+        "title": "John Wick",
+        "release_year": 2014,
+        "poster_image": "https://www.themoviedb.org/t/p/w1280/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg"
+      }
+    ]
+  }

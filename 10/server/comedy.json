@@ -1,0 +1,24 @@
+{
+    "id": "comedy",
+    "name": "Comedy",
+    "movies": [
+      {
+        "id": "4",
+        "title": "The Grand Budapest Hotel",
+        "release_year": 2014,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nX5XotM9yprCKarRH4fzOq1VM1J.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Superbad",
+        "release_year": 2007,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9qZfNue7qxb69Z7tQxrdqD0iObb.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Deadpool",
+        "release_year": 2016,
+        "poster_image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/inVq3FRqcYIRl2la8iZikYYxFNR.jpg"
+      }
+    ]
+  }

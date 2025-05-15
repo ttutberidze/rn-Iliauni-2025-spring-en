@@ -1,0 +1,22 @@
+[
+    {
+        "id": "action",
+        "name": "Action"
+    },
+    {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    {
+        "id": "drama",
+        "name": "Drama"
+    },
+    {
+        "id": "science",
+        "name": "Science Fiction"
+    },
+    {
+        "id": "horrow",
+        "name": "Horror"
+    }
+]
